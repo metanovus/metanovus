@@ -11,7 +11,7 @@
 Вот некоторые из моих проектов, в которых я принимал участие:
 
 ### [MoodMeter](https://github.com/SimulatorML/MoodMeter)
-Проект в рамках [симулятора Data Science](https://karpov.courses/simulator-ds) от karpov.courses. Классификация настроений пользователей чата Телеграм с помощью BERT. Моя роль: написание скриптов на PyCharm, работа с библиотекой Transformers, Telegram API и Streamlit, помощь в реализации бэкенд-части, а именно настройка базы данных Heroku и связывание всех скриптов воедино. [Победил](https://t.me/bogdanisssimo/1069) в финале между двумя похожими проектами после выпуска в production.
+Проект в рамках [симулятора Data Science](https://karpov.courses/simulator-ds) от karpov.courses. Классификация настроений пользователей чата Телеграм с помощью BERT. Моя роль: написание скриптов на PyCharm, работа с библиотекой Transformers, Telegram API и Streamlit, помощь в реализации бэкенд-части, а именно настройка базы данных Heroku и связывание всех скриптов воедино. Наш проект [победил](https://t.me/bogdanisssimo/1069) в финале между двумя похожими проектами после выпуска в production.
 
 ### [ecom.tech Multi Label Classification Competition](https://github.com/metanovus/ecom-tech-nlp-comp)
 Соревнование, организованное ecom.tech и Deep Learning School, где я занимался мульти-лейбл классификацией обратной связи пользователей на 50 классов. Мое решение попало в топ-5 лучших.
