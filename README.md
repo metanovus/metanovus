@@ -34,4 +34,6 @@ Ranked in the **top 5** for multi-label classification of user feedback into 50 
 
 ## 💬 Contact  
 
-I’m open to collaboration! Reach me via email: metanovus@mail.ru, or Telegram: @samoilov_vadim.  
+Feel free to reach out to me via:  
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:metanovus@mail.ru) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/samoilov_vadim)
