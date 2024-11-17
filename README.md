@@ -13,7 +13,7 @@ Here are some of the key tools and frameworks I work with:
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,pycharm,pytorch,huggingface,matplotlib,jupyter,docker,streamlit,numpy,pandas&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,pycharm,pytorch,huggingface,postgres,matplotlib,jupyter,docker,streamlit,numpy,pandas&theme=dark" />
   </a>
 </p>
 
