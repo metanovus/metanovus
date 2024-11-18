@@ -32,7 +32,7 @@ Ranked in the **top 5** for multi-label classification of user feedback into 50 
 
 🕹️ **Fun Fact:**  
 
-As a hobby, I developed a globally top-8 mod, [Wind of Time](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/), for the S.T.A.L.K.E.R. game. This involved enhancing the game engine (**C++**), scripting logic (**Lua**), and designing levels (SDK), sharpening my problem-solving and system design skills.
+As a hobby, I developed a globally top-8 mod, [Wind of Time](https://ap-pro.ru/stuff/zov_pripjati/veter-vremeni-r201/), for the S.T.A.L.K.E.R. game. This involved enhancing the game engine (**C++**), scripting logic (**Lua**), and designing levels (SDK), sharpening my problem-solving and system design skills. The modification was developed over approximately two years.
 
 ## 💬 Contact  
 
