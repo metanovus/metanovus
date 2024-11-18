@@ -38,4 +38,9 @@ As a hobby, I developed a globally top-8 mod, [Wind of Time](https://ap-pro.ru/s
 
 Feel free to reach out to me via:  
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:metanovus@mail.ru) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/samoilov_vadim)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:metanovus@mail.ru) 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/samoilov_vadim)
+
+</div>
