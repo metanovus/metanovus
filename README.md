@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Intern Data Scientist  
+# 👋 Hi! I'm Aspiring Data Scientist  
 
 Welcome to my GitHub page! I’m Vadim, a passionate Data Scientist with interests in **NLP**, **CV**, recommender systems, and classical **Machine Learning**.  
 
