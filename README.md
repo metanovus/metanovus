@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Aspiring Data Scientist  
 
-Welcome to my GitHub page! I’m Vadim, a passionate Data Scientist with interests in **NLP**, **CV**, recommender systems, and classical **Machine Learning**.  
+Welcome to my GitHub page! I’m Vadim, a passionate Data Scientist with interests in **NLP**, **CV**, RecSys, and classical **Machine Learning**.  
 
 ## 🎓 Education  
 
