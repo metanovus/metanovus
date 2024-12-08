@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Aspiring Data Scientist  
 
-Welcome to my GitHub page! I’m Vadim, a passionate Data Scientist with interests in **NLP**, **CV**, RecSys, and classical **Machine Learning**.  
+Welcome to my GitHub page! I’m Vadim, a passionate Data Scientist with interests in NLP, CV, RecSys, and classical Machine Learning.  
 
 ## 🎓 Education  
 
@@ -24,6 +24,9 @@ A team project to classify user sentiments using 🤗 [ruBERT](https://huggingfa
 
 ### 💫 [ecom.tech x Deep Learning School Competition](https://github.com/metanovus/ecom-tech-nlp-comp)  
 Ranked in the **top 5** for multi-label classification of user feedback into 50 categories using 🤗 [ruRoberta-large](https://huggingface.co/ai-forever/ruRoberta-large).  
+
+### 🤖 [Nornickel Hackaton RAG Multimodal System](https://github.com/metanovus/nornikel-rag-2024)  
+Development of a pipeline for a multimodal RAG system as part of the Nornickel hackathon using 🤗 [colpali-v1.2](https://huggingface.co/vidore/colpali-v1.2) and 🤗 [Vikhr-2-VL-2b](https://huggingface.co/Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimental).
 
 ### 📚 [Personal Projects](https://github.com/metanovus/my-projects)
 - Car fault classification with boosting algorithms (LightGBM, CatBoost, XGBoost).  
