@@ -29,7 +29,7 @@ Ranked in the **top 5** for multi-label classification of user feedback into 50 
 Development of a pipeline for a multimodal RAG system as part of the Nornickel hackathon using 🤗 [colpali-v1.2](https://huggingface.co/vidore/colpali-v1.2) and 🤗 [Vikhr-2-VL-2b](https://huggingface.co/Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimental).
 
 ### 🧑‍💻📄 [BuenoJob - Smart Job Search](https://github.com/metanovus/bueno-job)
-My personal ongoing project on smart job search using Sentence-BERT pre-trained model.
+My personal ongoing project on smart job search using Sentence-BERT pre-trained model and Qdrant.
 
 ### 📚 [Small Personal Projects](https://github.com/metanovus/my-projects)
 - Car fault classification with boosting algorithms (LightGBM, CatBoost, XGBoost).  
