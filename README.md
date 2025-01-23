@@ -20,7 +20,7 @@ Here are some of the key tools and frameworks I work with:
 ## 👩🏻‍💻 Key Projects  
 
 ### 🎭 [MoodMeter - Telegram Chat Sentiment Analysis](https://github.com/metanovus/MoodMeter)  
-A team project to classify user sentiments using 🤗 [ruBERT](https://huggingface.co/blanchefort/rubert-base-cased-sentiment-rurewiews). My role included backend integration (Heroku, database setup), script development, and deploying the final product. **Winner of the competition’s final round.**  
+A team project to classify user sentiments using 🤗 [ruBERT](https://huggingface.co/blanchefort/rubert-base-cased-sentiment-rurewiews). My role included backend integration (Heroku, database setup), script development, and deploying the final product. **Winner of the competition’s final round.**
 
 ### 💫 [ecom.tech x Deep Learning School Competition](https://github.com/metanovus/ecom-tech-nlp-comp)  
 Ranked in the **top 5** for multi-label classification of user feedback into 50 categories using 🤗 [ruRoberta-large](https://huggingface.co/ai-forever/ruRoberta-large).  
@@ -28,7 +28,10 @@ Ranked in the **top 5** for multi-label classification of user feedback into 50 
 ### 🤖 [Nornickel Hackaton RAG Multimodal System](https://github.com/metanovus/nornikel-rag-2024)  
 Development of a pipeline for a multimodal RAG system as part of the Nornickel hackathon using 🤗 [colpali-v1.2](https://huggingface.co/vidore/colpali-v1.2) and 🤗 [Vikhr-2-VL-2b](https://huggingface.co/Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimental).
 
-### 📚 [Personal Projects](https://github.com/metanovus/my-projects)
+### 🧑‍💻📄 [BuenoJob - Smart Job Search](https://github.com/metanovus/bueno-job)
+My personal ongoing project on smart job search using Sentence-BERT pre-trained model.
+
+### 📚 [Small Personal Projects](https://github.com/metanovus/my-projects)
 - Car fault classification with boosting algorithms (LightGBM, CatBoost, XGBoost).  
 - Bird detection with YOLOv3.  
 - Semantic segmentation for autonomous vehicles using U-Net.  
