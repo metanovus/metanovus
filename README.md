@@ -4,7 +4,7 @@ Welcome to my GitHub page! I’m Vadim, a passionate Data Scientist with interes
 
 ## 🎓 Education  
 
-* Graduated from Saint Petersburg Electrotechnical University "LETI" (2017) with a degree in [Innovation Studies](https://abit.etu.ru/ru/postupayushhim/bakalavriat-i-specialitet/napravleniya-podgotovki/innovatika).  
+* Graduated from Saint Petersburg Electrotechnical University "LETI" with a degree in [Innovation Studies](https://abit.etu.ru/ru/postupayushhim/bakalavriat-i-specialitet/napravleniya-podgotovki/innovatika).  
 * Published a [scientific article](https://ieeexplore.ieee.org/document/7910814) on warehouse management innovations.
 
 ## 🛠️ Technologies I Use  
