@@ -19,7 +19,10 @@ Here are some of the key tools and frameworks I work with:
 
 ## 🏆 Competition Projects  
 
-### 💫 [ecom.tech x Deep Learning School Competition](https://github.com/metanovus/ecom-tech-nlp-comp)
+### 🏷️ [ecom.tech x AI Learning Lab (ITMO) Data Label Competition (Demonstration version)](https://github.com/metanovus/ecom-tech-label-comp)
+Competition to develop a data tagging service for training ML models. In the final received 3th place.
+
+### 💫 [ecom.tech x Deep Learning School NLP Competition](https://github.com/metanovus/ecom-tech-nlp-comp)
 Ranked in the **top 5** (4th place) for multi-label classification of user feedback into 50 categories using 🤗 [ruRoberta-large](https://huggingface.co/ai-forever/ruRoberta-large).  
 
 ### 🤖 [Nornickel Hackaton RAG Multimodal System](https://github.com/metanovus/nornikel-rag-2024)
