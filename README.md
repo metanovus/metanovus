@@ -31,7 +31,7 @@ Development of a pipeline for a multimodal RAG system as part of the Nornickel h
 ### 🧑‍💻 [BuenoJob - Smart Job Search](https://github.com/metanovus/bueno-job)
 My personal ongoing project on smart job search using Sentence-BERT pre-trained model and Qdrant.
 
-### 💬 [Rag Smart Courses Adviser](https://github.com/metanovus/rag-courses-advicer)
+### 💬 [RAG Smart Courses Adviser](https://github.com/metanovus/rag-courses-advicer)
 RAG chatbot project that parses information using bs4, processes using 🤗 [DeepPavlov/rubert-base-cased-sentence](https://huggingface.co/DeepPavlov/rubert-base-cased-sentence) and 🤗 [cointegrated/rubert-base-cased-nli-threeway](https://huggingface.co/cointegrated/rubert-base-cased-nli-threeway) and uses Mistral AI via API.
 
 ### 📚 [Small Personal Projects](https://github.com/metanovus/my-projects)
