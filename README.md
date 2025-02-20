@@ -19,7 +19,7 @@ Here are some of the key tools and frameworks I work with:
 
 ## 🏆 Competition Projects  
 
-### 🏷️ [ecom.tech x AI Learning Lab (ITMO) Data Label Competition (Demonstration version)](https://github.com/metanovus/ecom-tech-label-comp)
+### 🏷️ [ecom.tech x AI Learning Lab (ITMO) Data Label Service Competition (Demo-version)](https://github.com/metanovus/ecom-tech-label-comp)
 Competition to develop a data tagging service for training ML models. In the final received 3th place.
 
 ### 💫 [ecom.tech x Deep Learning School NLP Competition](https://github.com/metanovus/ecom-tech-nlp-comp)
