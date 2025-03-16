@@ -10,10 +10,10 @@ Welcome to my GitHub page! I’m Vadim, a passionate Data Scientist with interes
 
 ## 🏆 Competition Projects  
 
-### [ecom.tech x AI Learning Lab (ITMO) (Demo-version)](https://github.com/metanovus/ecom-tech-label-comp) [3th place]
+### [AI Learning Lab x ecom.tech](https://github.com/metanovus/ecom-tech-label-comp) [3th place]
 Competition to develop a data tagging service for training ML models.
 
-### [ecom.tech x Deep Learning School NLP Workshop](https://github.com/metanovus/ecom-tech-nlp-comp) [4th place]
+### [Deep Learning School x ecom.tech NLP Workshop](https://github.com/metanovus/ecom-tech-nlp-comp) [4th place]
 Multi-label classification of user feedback into 50 categories using 🤗 [ruRoberta-large](https://huggingface.co/ai-forever/ruRoberta-large).  
 
 ### [Nornickel: Intellectual Horizons](https://github.com/metanovus/nornikel-rag-2024) [semi-final]
