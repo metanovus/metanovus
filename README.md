@@ -19,14 +19,17 @@ Here are some of the key tools and frameworks I work with:
 
 ## 🏆 Competition Projects  
 
-### 🏷️ [ecom.tech x AI Learning Lab (ITMO) Data Label Service Competition (Demo-version)](https://github.com/metanovus/ecom-tech-label-comp)
+### 🏷️ [ecom.tech x AI Learning Lab (ITMO) (Demo-version)](https://github.com/metanovus/ecom-tech-label-comp)
 Competition to develop a data tagging service for training ML models. In the final received 3th place.
 
-### 💫 [ecom.tech x Deep Learning School NLP Competition](https://github.com/metanovus/ecom-tech-nlp-comp)
+### 💫 [ecom.tech x Deep Learning School NLP Workshop](https://github.com/metanovus/ecom-tech-nlp-comp)
 Ranked in the **top 5** (4th place) for multi-label classification of user feedback into 50 categories using 🤗 [ruRoberta-large](https://huggingface.co/ai-forever/ruRoberta-large).  
 
-### 🤖 [Nornickel Hackaton RAG Multimodal System](https://github.com/metanovus/nornikel-rag-2024)
+### 🤖 [Nornickel Hackaton](https://github.com/metanovus/nornikel-rag-2024)
 Ranked in the pre-final for development of a pipeline for a multimodal RAG system as part of the Nornickel hackathon using 🤗 [colpali-v1.2](https://huggingface.co/vidore/colpali-v1.2) and 🤗 [Vikhr-2-VL-2b](https://huggingface.co/Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimental).
+
+### 📜 [IT Purple Hack 2025](https://github.com/metanovus/it-purple-hack-2025)
+A project that made it to the semi-finals by solving five competitive cases. I have developed a smart assistant for home interior design and built a program for placing virtual machines.
 
 ## 👩🏻‍💻 Personal Projects
 
