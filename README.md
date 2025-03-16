@@ -20,7 +20,7 @@ Multi-label classification of user feedback into 50 categories using 🤗 [ruRob
 Development of a pipeline for a multimodal RAG system as part of the Nornickel hackathon using 🤗 [colpali-v1.2](https://huggingface.co/vidore/colpali-v1.2) and 🤗 [Vikhr-2-VL-2b](https://huggingface.co/Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimental).
 
 ### [IT Purple Hack 2025](https://github.com/metanovus/it-purple-hack-2025) [semi-final]
-Solving five competitive cases. I have developed a smart assistant for home interior design and built a program for placing virtual machines.
+Solving five competitive cases (including NLP, CV, GNN and RP). I have developed a smart assistant for home interior design and built a program for placing virtual machines.
 
 ## 👩🏻‍💻 Personal Projects
 
