@@ -24,11 +24,11 @@ Solving five competitive cases. I have developed a smart assistant for home inte
 
 ## 👩🏻‍💻 Personal Projects
 
-### [MoodMeter - Telegram Chat Sentiment Analysis](https://github.com/metanovus/MoodMeter)  
+### [MoodMeter](https://github.com/metanovus/MoodMeter)  
 A team project to classify user sentiments using 🤗 [ruBERT](https://huggingface.co/blanchefort/rubert-base-cased-sentiment-rurewiews). My role included backend integration (Heroku, database setup), script development, and deploying the final product. **Winner of the competition’s final round.**
 
-### [BuenoJob - Smart Job Search](https://github.com/metanovus/bueno-job)
+### [BuenoJob](https://github.com/metanovus/bueno-job)
 My personal ongoing project on smart job search using Sentence-BERT pre-trained model and Qdrant.
 
-### [RAG Smart Courses Adviser](https://github.com/metanovus/rag-courses-advicer)
+### [Courses Adviser](https://github.com/metanovus/rag-courses-advicer)
 RAG chatbot project that parses information using bs4, processes using 🤗 [DeepPavlov/rubert-base-cased-sentence](https://huggingface.co/DeepPavlov/rubert-base-cased-sentence) and 🤗 [cointegrated/rubert-base-cased-nli-threeway](https://huggingface.co/cointegrated/rubert-base-cased-nli-threeway) and uses Mistral AI via API.
