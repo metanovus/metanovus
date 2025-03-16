@@ -16,7 +16,7 @@ Competition to develop a data tagging service for training ML models.
 ### [ecom.tech x Deep Learning School NLP Workshop](https://github.com/metanovus/ecom-tech-nlp-comp) [4th place]
 Multi-label classification of user feedback into 50 categories using 🤗 [ruRoberta-large](https://huggingface.co/ai-forever/ruRoberta-large).  
 
-### [Nornickel Hackaton](https://github.com/metanovus/nornikel-rag-2024) [semi-final]
+### [Nornickel: Intellectual Horizons](https://github.com/metanovus/nornikel-rag-2024) [semi-final]
 Development of a pipeline for a multimodal RAG system as part of the Nornickel hackathon using 🤗 [colpali-v1.2](https://huggingface.co/vidore/colpali-v1.2) and 🤗 [Vikhr-2-VL-2b](https://huggingface.co/Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimental).
 
 ### [IT Purple Hack 2025](https://github.com/metanovus/it-purple-hack-2025) [semi-final]
