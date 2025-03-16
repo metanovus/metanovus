@@ -3,7 +3,7 @@
 Welcome to my GitHub page! I’m Vadim, a passionate Data Scientist with interests in NLP, CV, and classical Machine Learning. 
 
 * Graduated from LETI
-* My CV: [Google Drive link](https://drive.google.com/file/d/1nZ8v4ksXhvnaTy2tCzCKfiBUiBK7af0Y/view?usp=drive_link)
+* My CV: [Google Drive link](https://drive.google.com/file/d/1HadsX4qwfT1fgOV6hfyJno88JpD55SJY/view?usp=sharing) (Russian)
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:metanovus@mail.ru) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/samoilov_vadim)
