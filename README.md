@@ -1,6 +1,6 @@
-# 👋 Hi! I'm Aspiring Data Scientist  
+# 👋 Hi! I'm Vadim
 
-Welcome to my GitHub page! I’m Vadim, a passionate Data Scientist with interests in NLP, CV, and classical Machine Learning. 
+Welcome to my GitHub page! I’m a passionate Data Scientist with interests in NLP, CV, and classical Machine Learning. 
 
 * Graduated from LETI
 * My CV: [Google Drive link](https://drive.google.com/file/d/1HadsX4qwfT1fgOV6hfyJno88JpD55SJY/view?usp=sharing) (Russian)
